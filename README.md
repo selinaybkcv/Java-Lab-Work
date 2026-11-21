@@ -14,10 +14,12 @@ This repository contains my weekly laboratory exercises, assignments, and practi
 | **Lab-3** | `CheckDigit.java` | Extracts individual digits from a 4-digit code using ASCII character arithmetic (`char - '0'`), computes their sum, and appends a mod-10 check digit. |
 | **Lab-4** | `Blackhole.java` | Implements Kaprekar's routine for 3-digit numbers to reach the 495 constant by sorting digits into maximum/minimum combinations and iterating through arithmetic differences. |
 | **Lab-5** | `StepCounter.java` | Tracks daily step counts using a sentinel-controlled `while` loop (terminating on `0`) to aggregate total steps and active days. |
+| **Lab-6** | `LockerPuzzle.java` | Solves the classic locker toggle problem across a user-defined range by modularizing divisor counting (`countDivisors`) and state checking (`isOpen`) methods to identify open lockers[cite: 11]. |
+| **Lab-7** | `Elevator.java` | Simulates an elevator scheduling algorithm using 1D arrays and boolean tracking to determine optimal stop sequences, calculate total floor distance traveled, and map stop numbers for each request[cite: 12]. |
 
 ---
 
 ## 🛠️ Tools & Environment
-* **Language:** Java (JDK 17+)
-* **Version Control:** Git & GitHub
-* **OS:** Windows / Linux (WSL2)
+- **Language:** Java (JDK 17+)
+- **Version Control:** Git & GitHub
+- **OS:** Windows / Linux (WSL2)
